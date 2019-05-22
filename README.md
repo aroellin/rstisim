@@ -16,3 +16,7 @@ Models are defined through configuration files, which are read and interpreted b
 The code is stable for our current model implementations, but we consider it to be beta state. You can download it from here and use it at your own risk. A manual for the R interface and the syntax of the configuration file is included in the package. Otherwise trial-and-error is your friend.
 
 The package is currently developed and maintained by Christian Althaus (University of Bern) and Adrian Roellin (National University of Singapore). If you have any question please contact either of us.
+
+To create the R source package, type the following in the current directory:
+
+> R CMD build Rstisim 
