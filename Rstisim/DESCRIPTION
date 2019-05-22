@@ -1,0 +1,15 @@
+Package: Rstisim
+Version: 1.0.5
+Date: 2017-12-20
+Title: R STI Simulation Tool
+Author: Adrian Roellin <adrian.roellin@nus.edu.sg>, 
+        Christian Althaus <christian.althaus@alumni.ethz.ch>, 
+        Janneke Heijne <jannekeheijne@hotmail.com>
+Maintainer: Adrian Roellin <adrian.roellin@nus.edu.sg>
+Depends: R (>= 3.3.1), igraph, network, lattice
+Suggests:
+Description: R STI Simulation Tool
+License: GPL (>= 2)
+URL: http://www.stat.nus.edu.sg/~staar/rstisim
+NeedsCompilation: yes
+Packaged: 2017-12-20

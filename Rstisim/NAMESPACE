@@ -1,0 +1,4 @@
+useDynLib(Rstisim)
+exportPattern("^sti") 
+exportPattern("^plot") 
+exportPattern("^.sti") 
