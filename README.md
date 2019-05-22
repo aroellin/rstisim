@@ -19,4 +19,4 @@ The package is currently developed and maintained by Christian Althaus (Universi
 
 To create the R source package, type the following in the current directory:
 
-> R CMD build Rstisim 
+```> R CMD build Rstisim```
